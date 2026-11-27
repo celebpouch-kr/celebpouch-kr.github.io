@@ -1,5 +1,175 @@
 [
   {
+    "num": 25,
+    "episode_id": "25_drpark_torriden_serum",
+    "celeb": "피부과 전문의",
+    "brand": "토리든 (Torriden)",
+    "name": "다이브인 저분자 히알루론산 세럼",
+    "price": "",
+    "category": "스킨케어",
+    "url": "https://link.coupang.com/a/i1rsXPg2O4",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_025.jpg",
+    "tags": [
+      "올영 1위 수분세럼",
+      "저분자 히알루론산",
+      "속건조 해결"
+    ]
+  },
+  {
+    "num": 24,
+    "episode_id": "24_drchoi_peptide_ampoule",
+    "celeb": "피부과 의사",
+    "brand": "성분에디터 (SUNGBOON EDITOR)",
+    "name": "실크 펩타이드 EGF 리프팅 앰플",
+    "price": "",
+    "category": "스킨케어",
+    "url": "https://link.coupang.com/a/i1rroenS3M",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_024.jpg",
+    "tags": [
+      "바르는 보톡스 앰플",
+      "주름 탄력 케어",
+      "4050 안티에이징"
+    ]
+  },
+  {
+    "num": 23,
+    "episode_id": "23_dentist_radens_tongue",
+    "celeb": "치과의사",
+    "brand": "라덴스 (RADENS)",
+    "name": "안심 혀클리너",
+    "price": "",
+    "category": "스킨케어",
+    "url": "https://link.coupang.com/a/i1rpGksNq0",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_023.jpg",
+    "tags": [
+      "입냄새 제거",
+      "백태 혀클리너",
+      "열탕소독 가능"
+    ]
+  },
+  {
+    "num": 22,
+    "episode_id": "22_dentist_curaprox_toothbrush",
+    "celeb": "치과의사",
+    "brand": "큐라프록스 (CURAPROX)",
+    "name": "CS 5460 초극세모 칫솔",
+    "price": "",
+    "category": "스킨케어",
+    "url": "https://link.coupang.com/a/i1rn3v68c0",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_022.jpg",
+    "tags": [
+      "스위스 칫솔",
+      "잇몸 보호 칫솔",
+      "치과의사 내돈내산"
+    ]
+  },
+  {
+    "num": 21,
+    "episode_id": "21_dentist_drtung_floss",
+    "celeb": "치과의사",
+    "brand": "닥터텅스 (Dr.Tung's)",
+    "name": "스마트 치실",
+    "price": "",
+    "category": "스킨케어",
+    "url": "https://link.coupang.com/a/i1qU3MMo1I",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_021.jpg",
+    "tags": [
+      "올리브영 1위 치실",
+      "치태 제거",
+      "치과의사 내돈내산"
+    ]
+  },
+  {
+    "num": 20,
+    "episode_id": "20_dentist_vussen28_toothpaste",
+    "celeb": "치과의사",
+    "brand": "뷰센 (VUSSEN)",
+    "name": "28 치아 미백 치약",
+    "price": "",
+    "category": "스킨케어",
+    "url": "https://link.coupang.com/a/i1rmyfbjeC",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_020.jpg",
+    "tags": [
+      "올리브영 미백치약",
+      "과산화수소 2.8%",
+      "치과의사 추천"
+    ]
+  },
+  {
+    "num": 19,
+    "episode_id": "19_drlee_drg_sun",
+    "celeb": "동안 의사",
+    "brand": "닥터지 (Dr.G)",
+    "name": "그린 마일드 업 선 플러스",
+    "price": "",
+    "category": "톤업/베이스",
+    "url": "https://link.coupang.com/a/i1qS2ShW7U",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_019.jpg",
+    "tags": [
+      "올영 1위 선크림",
+      "순한 무기자차",
+      "SPF50+ PA++++"
+    ]
+  },
+  {
+    "num": 18,
+    "episode_id": "18_drchoi_numbuzin_sun",
+    "celeb": "피부과 의사",
+    "brand": "넘버즈인 (numbuzin)",
+    "name": "1번 청초 진정 맑은 물막 선크림",
+    "price": "",
+    "category": "톤업/베이스",
+    "url": "https://link.coupang.com/a/i1qRfoK0Y0",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_018.jpg",
+    "tags": [
+      "백탁없는 선크림",
+      "수분 유기자차",
+      "올리브영 선크림"
+    ]
+  },
+  {
+    "num": 17,
+    "episode_id": "17_drkim_aestura_sun",
+    "celeb": "피부과 의사",
+    "brand": "에스트라 (AESTURA)",
+    "name": "더마UV365 장벽수분 무기자차 선크림",
+    "price": "",
+    "category": "톤업/베이스",
+    "url": "https://link.coupang.com/a/i1qPsvrDpI",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_017.jpg",
+    "tags": [
+      "무기자차 선크림",
+      "민감성 피부 추천",
+      "올리브영 선크림"
+    ]
+  },
+  {
+    "num": 16,
+    "episode_id": "16_drchoi_aestura_cream",
+    "celeb": "피부과 의사",
+    "brand": "에스트라 (AESTURA)",
+    "name": "아토베리어 365 크림",
+    "price": "",
+    "category": "스킨케어",
+    "url": "https://link.coupang.com/a/i1qNzQSm9Q",
+    "has_affiliate": true,
+    "thumb": "assets/thumbs/ep_016.jpg",
+    "tags": [
+      "올리브영 장벽크림",
+      "세라마이드 판테놀",
+      "피부과 의사 추천"
+    ]
+  },
+  {
     "num": 15,
     "episode_id": "15_yujung_drg_soothing_cream",
     "celeb": "",
