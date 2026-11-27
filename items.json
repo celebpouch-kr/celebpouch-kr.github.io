@@ -7,7 +7,7 @@
     "name": "레드 블레미쉬 클리어 수딩 크림",
     "price": "",
     "category": "스킨케어",
-    "url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%A7%80%20%28Dr.G%29%20%EB%A0%88%EB%93%9C%20%EB%B8%94%EB%A0%88%EB%AF%B8%EC%89%AC%20%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%88%98%EB%94%A9%20%ED%81%AC%EB%A6%BC",
+    "url": "https://www.coupang.com/np/search?q=%EB%8B%A5%ED%84%B0%EC%A7%80%20%EB%A0%88%EB%93%9C%20%EB%B8%94%EB%A0%88%EB%AF%B8%EC%89%AC%20%ED%81%AC%EB%A6%BC",
     "has_affiliate": false,
     "thumb": "assets/thumbs/ep_015.jpg",
     "tags": [
@@ -24,7 +24,7 @@
     "name": "모이스춰라이징 크림",
     "price": "",
     "category": "스킨케어",
-    "url": "https://www.coupang.com/np/search?q=%EC%84%B8%ED%83%80%ED%95%84%20%28Cetaphil%29%20%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B6%B0%EB%9D%BC%EC%9D%B4%EC%A7%95%20%ED%81%AC%EB%A6%BC",
+    "url": "https://www.coupang.com/np/search?q=%EC%84%B8%ED%83%80%ED%95%84%20%ED%81%AC%EB%A6%BC",
     "has_affiliate": false,
     "thumb": "assets/thumbs/ep_014.jpg",
     "tags": [
@@ -41,7 +41,7 @@
     "name": "유비데아 안뗄리오스 멜트인 크림",
     "price": "",
     "category": "톤업/베이스",
-    "url": "https://www.coupang.com/np/search?q=%EB%9D%BC%EB%A1%9C%EC%8A%88%ED%8F%AC%EC%A0%9C%20%28La%20Roche-Posay%29%20%EC%9C%A0%EB%B9%84%EB%8D%B0%EC%95%84%20%EC%95%88%EB%97%84%EB%A6%AC%EC%98%A4%EC%8A%A4%20%EB%A9%9C%ED%8A%B8%EC%9D%B8%20%ED%81%AC%EB%A6%BC",
+    "url": "https://www.coupang.com/np/search?q=%EB%9D%BC%EB%A1%9C%EC%8A%88%ED%8F%AC%EC%A0%9C%20%EC%9C%A0%EB%B9%84%EB%8D%B0%EC%95%84%20%ED%81%AC%EB%A6%BC",
     "has_affiliate": false,
     "thumb": "assets/thumbs/ep_013.jpg",
     "tags": [
@@ -58,7 +58,7 @@
     "name": "판테놀 크림",
     "price": "",
     "category": "스킨케어",
-    "url": "https://www.coupang.com/np/search?q=%EC%95%84%ED%86%A0%ED%8C%9C%20%28ATOPALM%29%20%ED%8C%90%ED%85%8C%EB%86%80%20%ED%81%AC%EB%A6%BC",
+    "url": "https://www.coupang.com/np/search?q=%EC%95%84%ED%86%A0%ED%8C%9C%20%ED%8C%90%ED%85%8C%EB%86%80%20%ED%81%AC%EB%A6%BC",
     "has_affiliate": false,
     "thumb": "assets/thumbs/ep_012.jpg",
     "tags": [
@@ -75,7 +75,7 @@
     "name": "컴플리트 프로텍션 플러스 치약",
     "price": "",
     "category": "스킨케어",
-    "url": "https://www.coupang.com/np/search?q=%EC%84%BC%EC%86%8C%EB%8B%A4%EC%9D%B8%20%28Sensodyne%29%20%EC%BB%B4%ED%94%8C%EB%A6%AC%ED%8A%B8%20%ED%94%84%EB%A1%9C%ED%85%8D%EC%85%98%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EC%B9%98%EC%95%BD",
+    "url": "https://www.coupang.com/np/search?q=%EC%84%BC%EC%86%8C%EB%8B%A4%EC%9D%B8%20%EC%B9%98%EC%95%BD",
     "has_affiliate": false,
     "thumb": "assets/thumbs/ep_011.jpg",
     "tags": [
@@ -92,81 +92,13 @@
     "name": "1025 독도 크림",
     "price": "",
     "category": "스킨케어",
-    "url": "https://www.coupang.com/np/search?q=%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%9E%A9%201025%20%EB%8F%85%EB%8F%84%20%ED%81%AC%EB%A6%BC",
+    "url": "https://www.coupang.com/np/search?q=%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%9E%A9%20%EB%8F%85%EB%8F%84%20%ED%81%AC%EB%A6%BC",
     "has_affiliate": false,
     "thumb": "assets/thumbs/ep_010.jpg",
     "tags": [
       "이나연 크림",
       "라운드랩 독도크림",
       "화잘먹 수분크림"
-    ]
-  },
-  {
-    "num": 9,
-    "episode_id": "09_leejia_hermes_lipstick",
-    "celeb": "이지아",
-    "brand": "에르메스 (Hermès)",
-    "name": "루즈 에르메스 새틴 립스틱",
-    "price": "",
-    "category": "립밤/립",
-    "url": "https://www.coupang.com/np/search?q=%EC%97%90%EB%A5%B4%EB%A9%94%EC%8A%A4%20%28Herm%C3%A8s%29%20%EB%A3%A8%EC%A6%88%20%EC%97%90%EB%A5%B4%EB%A9%94%EC%8A%A4%20%EC%83%88%ED%8B%B4%20%EB%A6%BD%EC%8A%A4%ED%8B%B1",
-    "has_affiliate": false,
-    "thumb": "assets/thumbs/ep_009.jpg",
-    "tags": [
-      "이지아 립스틱",
-      "에르메스 립스틱",
-      "내추럴 베이지 립"
-    ]
-  },
-  {
-    "num": 8,
-    "episode_id": "08_yoona_esteelauder_lipbalm",
-    "celeb": "윤아",
-    "brand": "에스티로더",
-    "name": "퓨어 컬러 엔비 컬러 리플레니시 립밤",
-    "price": "",
-    "category": "립밤/립",
-    "url": "https://www.coupang.com/np/search?q=%EC%97%90%EC%8A%A4%ED%8B%B0%EB%A1%9C%EB%8D%94%20%ED%93%A8%EC%96%B4%20%EC%BB%AC%EB%9F%AC%20%EC%97%94%EB%B9%84%20%EC%BB%AC%EB%9F%AC%20%EB%A6%AC%ED%94%8C%EB%A0%88%EB%8B%88%EC%8B%9C%20%EB%A6%BD%EB%B0%A4",
-    "has_affiliate": false,
-    "thumb": "assets/thumbs/ep_008.jpg",
-    "tags": [
-      "윤아 립밤",
-      "에스티로더 립밤",
-      "핑크 케이스 립밤"
-    ]
-  },
-  {
-    "num": 7,
-    "episode_id": "07_hwasa_creed_perfume",
-    "celeb": "화사",
-    "brand": "크리드 (Creed)",
-    "name": "로얄 워터 오드퍼퓸",
-    "price": "",
-    "category": "바디/향수",
-    "url": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EB%93%9C%20%28Creed%29%20%EB%A1%9C%EC%96%84%20%EC%9B%8C%ED%84%B0%20%EC%98%A4%EB%93%9C%ED%8D%BC%ED%93%B8",
-    "has_affiliate": false,
-    "thumb": "assets/thumbs/ep_007.jpg",
-    "tags": [
-      "화사 향수",
-      "크리드 로얄 워터",
-      "중성 향수"
-    ]
-  },
-  {
-    "num": 6,
-    "episode_id": "06_tiffany_acquadiparma_perfume",
-    "celeb": "티파니",
-    "brand": "아쿠아 디 파르마",
-    "name": "로사 노빌레 오드퍼퓸",
-    "price": "",
-    "category": "바디/향수",
-    "url": "https://www.coupang.com/np/search?q=%EC%95%84%EC%BF%A0%EC%95%84%20%EB%94%94%20%ED%8C%8C%EB%A5%B4%EB%A7%88%20%EB%A1%9C%EC%82%AC%20%EB%85%B8%EB%B9%8C%EB%A0%88%20%EC%98%A4%EB%93%9C%ED%8D%BC%ED%93%B8",
-    "has_affiliate": false,
-    "thumb": "assets/thumbs/ep_006.jpg",
-    "tags": [
-      "티파니 향수",
-      "로즈 향수",
-      "아쿠아디파르마"
     ]
   },
   {
